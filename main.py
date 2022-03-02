@@ -1,5 +1,4 @@
-#PORTFOLIO PROJECT 3
-# Tic Tac Tow game
+# Tic Tac Toe game
 
 print("Instructions to play:"
       "\nPlayer-1 is given the symbol of 'X'"
